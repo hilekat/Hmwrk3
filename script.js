@@ -15,7 +15,6 @@ var special = ['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '{', '}', '[', 
 
 function generatePassword() {
 
-
   var passwordLength = prompt('How many characters would you like your password to be? Please choose between 5 - 15 characters.');
 
 
